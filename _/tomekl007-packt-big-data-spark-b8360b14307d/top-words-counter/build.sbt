@@ -1,0 +1,1 @@
+name := "top-words-counter"
